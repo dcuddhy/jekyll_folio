@@ -7,7 +7,7 @@ Ruby 4.1
 
 ## Run Locally:
 **$ jekyll serve**  
-_ => A development server will run at http://localhost:4000/ _  
+_=> A development server will run at_ http://localhost:4000/  
 _Auto-regeneration: enabled. Use `--no-watch` to disable._  
 
 ## Deploy to Production:
